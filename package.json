@@ -1,0 +1,15 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "Open Weather API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hemil Fichadia",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
